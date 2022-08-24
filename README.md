@@ -8,4 +8,7 @@ I also found some typical problems that can be adapted to certain categories. I 
 
 [2381. Shifting Letters II](https://leetcode.cn/problems/shifting-letters-ii/)
 
+- 并查集
+[684. Redundant Connection](https://leetcode.cn/problems/redundant-connection/)
+
 Hope you could get a good job soon! 上岸上岸！
