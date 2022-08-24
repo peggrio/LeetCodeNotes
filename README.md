@@ -12,4 +12,6 @@ I also found some typical problems that can be adapted to certain categories. I 
 
 [684. Redundant Connection](https://leetcode.cn/problems/redundant-connection/)
 
+(HashSet+并查集思想)[面试题 17.07. Baby Names LCCI](https://leetcode.cn/problems/baby-names-lcci/)
+
 Hope you could get a good job soon! 上岸上岸！
