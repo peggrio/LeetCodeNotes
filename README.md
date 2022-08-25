@@ -14,4 +14,6 @@ I also found some typical problems that can be adapted to certain categories. I 
 
 [面试题 17.07. Baby Names LCCI](https://leetcode.cn/problems/baby-names-lcci/)(HashSet+并查集思想)
 
+[2382. Maximum Segment Sum After Removals](https://leetcode.cn/problems/maximum-segment-sum-after-removals/)
+
 Hope you could get a good job soon! 上岸上岸！
