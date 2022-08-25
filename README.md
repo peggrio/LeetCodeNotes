@@ -14,6 +14,8 @@ I also found some typical problems that can be adapted to certain categories. I 
 
 [面试题 17.07. Baby Names LCCI](https://leetcode.cn/problems/baby-names-lcci/)(HashSet+并查集思想)
 
-[2382. Maximum Segment Sum After Removals](https://leetcode.cn/problems/maximum-segment-sum-after-removals/)
+[2382. Maximum Segment Sum After Removals](https://leetcode.cn/problems/maximum-segment-sum-after-removals/)(偏难，可做可不做)
+
+[2368. Reachable Nodes With Restrictions](https://leetcode.cn/problems/reachable-nodes-with-restrictions/)
 
 Hope you could get a good job soon! 上岸上岸！
